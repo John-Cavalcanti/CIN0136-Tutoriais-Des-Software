@@ -27,12 +27,12 @@ Cada desenvolvedor deve isolar seu trabalho em uma **nova branch** criada a part
 Use o seguinte padrão de nomenclatura para que o propósito da branch seja claro e imediato:
 
 - Para novas funcionalidades:
-  `feature/titulo-da-feature`
-  `(Exemplo: feature/adicionar-endpoint-de-login)`
+  - `feature/titulo-da-feature`
+  - `(Exemplo: feature/adicionar-endpoint-de-login)`
 
 - Para correções de bugs ou falhas:
-  `fix/descricao-da-correcao`
-  `(Exemplo: fix/corrigir-validacao-de-email)`
+  - `fix/descricao-da-correcao`
+  - `(Exemplo: fix/corrigir-validacao-de-email)`
 
 ## 2. Padrão de Mensagens de Commit: Conventional Commits
 
@@ -59,7 +59,7 @@ git commit -m "chore: atualizar versão do pacote X para 2.0.1"
 git commit -m "fix: impedir que o modal feche ao clicar fora"
 ```
 
-(Se necessário, consulte a documentação completa sobre [Convetional Commits](https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657))
+(Se necessário, consulte a documentação completa sobre [Conventional Commits](https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657))
 
 ## 3. Fluxo de Trabalho e Pull Requests (PRs)
 
