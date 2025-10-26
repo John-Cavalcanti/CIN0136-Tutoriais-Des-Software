@@ -1,6 +1,6 @@
 # CIN0136-Tutoriais-Des-Software
 
-Neste repositório estão contidos tutoriais para os alunos que cursam a disciplina CIN136 Desenvolvimento de Software do Cin - UFPE. Os tutoriais podem abrangir dos mais variados temas desde o planejamento de tarefas com metodologias ágeis, técnicoas de desenvolvimento, até o deploy da aplicação em serviços gratuitos.
+Neste repositório estão contidos tutoriais para os alunos que cursam a disciplina CIN136 Desenvolvimento de Software do Cin - UFPE. Os tutoriais podem abrangir dos mais variados temas desde o planejamento de tarefas com metodologias ágeis, técnicas de desenvolvimento, até o deploy da aplicação em serviços gratuitos.
 
 ## Tutoriais estarão separados por área de interesse 
 
@@ -8,3 +8,7 @@ Neste repositório estão contidos tutoriais para os alunos que cursam a discipl
 
 - [Boas práticas de desenvolvimento de software](/dev/boas-praticas.md)
 - [Protocolos http](/dev/protocolos-http.md)
+
+### Banco de Dados
+
+- [Conexão ao MongoDB Atlas com FastAPI e React](/database/mongodb-atlas-com-fastapi-e-react.md)
